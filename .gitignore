@@ -17,3 +17,6 @@
 # MacOS System file
 .DS_Store
 **/.DS_Store
+
+# IDEA
+.idea
